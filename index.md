@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rune Walkingshaw's programing portfolio
 
 You can use the [editor on GitHub](https://github.com/RuneWalkingshaw/Programing1Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
